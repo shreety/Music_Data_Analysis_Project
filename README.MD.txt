@@ -45,4 +45,4 @@ chmod 744 <path> and running the mysql service sudo service mysqld start
 STEP 2
 
 now simplly run the wrapper file it will automatically run all the files by using the command 
-sh <path>wapper.sh
+sh <path>MainScripts.sh
